@@ -77,11 +77,11 @@ In this project we forecasts the future temperature values based on historical d
 
 ### Reporting: 
 
-The script should be able to generate a summary report that presents the results of the analysis, including visualizations, tables, and key insights.
+The project also generate a summary report that presents the results of the analysis, including visualizations, tables, and key insights.
 
 ### Customization: 
 
-The script should allow users to customize various aspects of the analysis, such as the time period of interest, the type of statistical model used, or the visualization options.
+In this project we allow users to customize various aspects of the analysis, such as the time period of interest, the type of statistical model used, or the visualization options.
 
 ## Built With
 
