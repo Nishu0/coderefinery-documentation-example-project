@@ -6,6 +6,14 @@
 [![Made by Nisarg Thakkar](https://img.shields.io/badge/made%20by-NisargThakkar-blueviolet?style=flat-square)](https://www.linkedin.com/in/nisarg-thakkar-08811a21a)
 </div>
 
+
+# Inspiration:
+
+Climate Change Research: Climate scientists may be interested in analyzing temperature data to better understand how the climate is changing over time.
+A Python script that can import and analyze temperature data from various sources could be a useful tool in this research.
+
+Agriculture and Farming: Farmers and agricultural researchers may be interested in analyzing temperature data to determine the best times for planting and harvesting crops. A Python script that can identify seasonal trends in temperature data and generate forecasts of future temperature values could be a valuable tool in this field.
+
 # Summary
 
 - [About](#about-project)
