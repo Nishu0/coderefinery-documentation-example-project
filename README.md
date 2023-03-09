@@ -26,8 +26,7 @@ Agriculture and Farming: Farmers and agricultural researchers may be interested 
 - [Built with](#built-with)
 - [How to run](#how-to-run)
 - [Contribution Guidelines](#contribution-guidelines)
-- [Local Depolyment](#how-to-run)
-- [Troubleshooting](#troubleshooting)
+
 
 ## About Project
 
@@ -111,7 +110,7 @@ git clone https://github.com/Nishu0/coderefinery-documentation-example-project.g
 **3.** Navigate to the project directory :file_folder: .
 
 ```
-cd Go-with-flow
+cd Project Name
 ```
 
 **4.** Add a reference(remote) to the original repository.
@@ -164,7 +163,7 @@ git push -u origin <your_branch_name>
 
 **14.** Click on `Create Pull Request`.
 
-**15** Voila :exclamation: You have made a PR to the nft-marketplace :boom: . Wait for your submission to be accepted and your PR to be merged.
+**15** Voila :exclamation: You have made a PR to the Project :boom: . Wait for your submission to be accepted and your PR to be merged.
 
 <br />
 
@@ -175,7 +174,7 @@ git push -u origin <your_branch_name>
   <img alt="Linkedin - Nisarg Thakkar" src="https://img.shields.io/badge/Linkedin--%23F8952D?style=social&logo=linkedin">
 </a>
 <a href="mailto:itsnisargthakkar@gmail.com" target="_blank" >
-  <img alt="Email - Natalie Bravo" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
+  <img alt="Email - Nisarg Thakkar" src="https://img.shields.io/badge/Email--%23F8952D?style=social&logo=gmail">
 </a> 
 <br/>
   Made with :coffee: and ❤️ by <b>Nisarg Thakkar</b>.
