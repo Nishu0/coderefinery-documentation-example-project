@@ -28,9 +28,11 @@ obtain insights about temperature patterns over time and make informed decisions
 
 ## Setup
 
-You will need Python 3.5 
+You will need ``` Python 3.5 ```
+
+
 This project depends on panda library install in on our system
-pip install pandas
+``` pip install pandas ```
 
 
 ## Features
